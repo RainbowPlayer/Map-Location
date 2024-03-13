@@ -1,7 +1,7 @@
 {
   "name": "map-location",
   "version": "0.1.0",
-  "homepage": "https://rainbowplayer.github.io/map-location",
+  "homepage": "https://rainbowplayer.github.io/Map-Location",
   "private": true,
   "dependencies": {
     "@react-google-maps/api": "^2.19.3",
